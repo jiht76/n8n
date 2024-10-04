@@ -18,7 +18,7 @@ export default defineComponent({
 </script>
 
 <template>
-	<img :src="logoPath" :class="$style.img" alt="n8n.io" />
+	<img :src="logoPath" :class="$style.img" alt="Olbrite Flow" />
 </template>
 
 <style lang="scss" module>
