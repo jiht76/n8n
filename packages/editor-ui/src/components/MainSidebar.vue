@@ -390,7 +390,7 @@ const checkWidthAndAdjustSidebar = async (width: number) => {
 	width: $sidebar-expanded-width;
 	.logo {
 		height: $header-height;
-		display: flex;
+		display: none;
 		align-items: center;
 		padding: var(--spacing-xs);
 
